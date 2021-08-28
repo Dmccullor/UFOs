@@ -6,9 +6,9 @@ This page features a table of data detailing UFO sightings from around the count
 
 ## Results
 Instead of clicking a button to initialize the filter, the user simply needs to type their condition into the appropriate filter prompt and press Enter. Once pressed, the table will reorder itself and only display results from the selected criteria. Here, the results have been filtered to only display the results in Texas.
-<img src="/../images/onefilter.png">
+<img src="/images/onefilter.png">
 Why stop with one? All of the filters can be used simultaneously, but keep in mind that the more of them are used at once, the less results will be produced, with some returning none at all. This image shows what will be displayed if the state is set to "tx" and the UFO shape is set to "light."
-<img src="/../images/twofilters.png">
+<img src="/images/twofilters.png">
 To revert to displaying data without a given filter, simply delete the filter entry and press Enter, or reload the page to reset completely.
 
 ## Summary
